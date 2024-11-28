@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Values.appDescriptor.name }}
+  labels:
+    {{- include "gogrpc-chart.labels" . | nindent 4 }}
+    project: {{ .Values.appDescriptor.project }}
+    name: {{ .Values.appDescriptor.name }}
+    env: {{ .Values.appDescriptor.env }}
+    server: {{ .Values.appDescriptor.server }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      name: http
+    - port: {{ .Values.serviceGrpc.port }}
+      targetPort: {{ .Values.serviceGrpc.type }}
+      protocol: TCP
+      name: {{ .Values.serviceGrpc.type }}
+  selector:
+    {{- include "gogrpc-chart.selectorLabels" . | nindent 4 }}
