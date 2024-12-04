@@ -3,45 +3,45 @@ entries:
   apigateway-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-01T06:43:47.515733923+07:00"
+    created: "2024-12-04T13:53:27.157753176+07:00"
     description: A Helm chart for Kubernetes
     digest: d83f17d298f0c4185b56813126dc6d003cf2d465ab4b1add18238a1c10a81459
     name: apigateway-chart
     type: application
     urls:
-    - https://github.com/hegieswe/k8s-toolkit/charts/apigateway-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/apigateway-chart-0.1.0.tgz
     version: 0.1.0
   goduoenv-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-01T06:43:47.516224251+07:00"
+    created: "2024-12-04T13:53:27.158357886+07:00"
     description: A Helm chart for Kubernetes
     digest: 740c24de0582759f576f5fcd9a05dd4a496f2142e71ab8d8e1ea430b5445728f
     name: goduoenv-chart
     type: application
     urls:
-    - https://github.com/hegieswe/k8s-toolkit/charts/goduoenv-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/goduoenv-chart-0.1.0.tgz
     version: 0.1.0
   gogrpc-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-01T06:43:47.516671308+07:00"
+    created: "2024-12-04T13:53:27.158972091+07:00"
     description: A Helm chart for Kubernetes
     digest: a679633175f26f20c953c1f30884b3fe8887f330952db83be3826053970ffc59
     name: gogrpc-chart
     type: application
     urls:
-    - https://github.com/hegieswe/k8s-toolkit/charts/gogrpc-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/gogrpc-chart-0.1.0.tgz
     version: 0.1.0
   gohttp-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-01T06:43:47.51901344+07:00"
+    created: "2024-12-04T13:53:27.159570064+07:00"
     description: A Helm chart for Kubernetes
     digest: 0393aaa852c9ff3412c78f70e087e7e95a0a25cd35e187faffb3a24ec886615b
     name: gohttp-chart
     type: application
     urls:
-    - https://github.com/hegieswe/k8s-toolkit/charts/gohttp-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/gohttp-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-01T06:43:47.512976901+07:00"
+generated: "2024-12-04T13:53:27.1565362+07:00"
