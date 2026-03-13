@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  technicaltest-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-14T00:04:08.2275433+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 57282cda3433815c8d86362910366fd3756c252248bfcb669628ef3527943086
+    name: technicaltest-chart
+    type: application
+    urls:
+    - technicaltest-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-14T00:04:08.226180423+07:00"
