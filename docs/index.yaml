@@ -54,4 +54,5 @@ entries:
     type: application
     urls:
     - technicaltest-chart-0.1.0.tgz
+    version: 0.1.0
 generated: "2025-04-22T10:33:57.646782908+07:00"
