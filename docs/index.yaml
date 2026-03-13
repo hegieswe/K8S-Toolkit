@@ -9,7 +9,7 @@ entries:
     name: apigateway-chart
     type: application
     urls:
-    - https://hegieswe.github.io/K8S-Toolkit/gh-pages/apigateway-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/docs/apigateway-chart-0.1.0.tgz
     version: 0.1.0
   goduoenv-chart:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: goduoenv-chart
     type: application
     urls:
-    - https://hegieswe.github.io/K8S-Toolkit/gh-pages/goduoenv-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/docs/goduoenv-chart-0.1.0.tgz
     version: 0.1.0
   gogrpc-chart:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: gogrpc-chart
     type: application
     urls:
-    - https://hegieswe.github.io/K8S-Toolkit/gh-pages/gogrpc-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/docs/gogrpc-chart-0.1.0.tgz
     version: 0.1.0
   gohttp-chart:
   - apiVersion: v2
@@ -42,7 +42,7 @@ entries:
     name: gohttp-chart
     type: application
     urls:
-    - https://hegieswe.github.io/K8S-Toolkit/gh-pages/gohttp-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/docs/gohttp-chart-0.1.0.tgz
     version: 0.1.0
   technicaltest-chart:
   - apiVersion: v2
@@ -53,6 +53,6 @@ entries:
     name: technicaltest-chart
     type: application
     urls:
-    - https://hegieswe.github.io/K8S-Toolkit/gh-pages/technicaltest-chart-0.1.0.tgz
+    - https://hegieswe.github.io/K8S-Toolkit/docs/technicaltest-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-22T10:33:57.646782908+07:00"
