@@ -47,12 +47,11 @@ entries:
   technicaltest-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-22T10:33:57.651133227+07:00"
-    description: A Helm chart for technical Test
-    digest: 2bb83663456669cfb8aa5a7f57de73d816b062926e035d9331a64685bf829334
+    created: "2026-03-14T00:04:08.2275433+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 57282cda3433815c8d86362910366fd3756c252248bfcb669628ef3527943086
     name: technicaltest-chart
     type: application
     urls:
-    - https://hegieswe.github.io/K8S-Toolkit/docs/technicaltest-chart-0.1.0.tgz
-    version: 0.1.0
+    - technicaltest-chart-0.1.0.tgz
 generated: "2025-04-22T10:33:57.646782908+07:00"
